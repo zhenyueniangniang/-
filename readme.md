@@ -8,8 +8,11 @@
 
 > 在模块学习的过程中，阅读下述文章中对应该模块的内容
 
+
  [前端知识汇总的博客](http://blog.poetries.top/FE-Interview-Questions/base/)
+
  [前端面试考点](https://juejin.im/post/5aae076d6fb9a028cc6100a9#heading-21)
+
  [一个合格(优秀)的前端都应该阅读这些文章](https://juejin.im/post/5d387f696fb9a07eeb13ea60#heading-13)
 
 
