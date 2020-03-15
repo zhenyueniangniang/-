@@ -8,9 +8,9 @@
 
 > 在模块学习的过程中，阅读下述文章中对应该模块的内容
 
-[前端知识汇总的博客](http://blog.poetries.top/FE-Interview-Questions/base/)
-[前端面试考点](https://juejin.im/post/5aae076d6fb9a028cc6100a9#heading-21)
-[一个合格(优秀)的前端都应该阅读这些文章](https://juejin.im/post/5d387f696fb9a07eeb13ea60#heading-13)
+ [前端知识汇总的博客](http://blog.poetries.top/FE-Interview-Questions/base/)
+ [前端面试考点](https://juejin.im/post/5aae076d6fb9a028cc6100a9#heading-21)
+ [一个合格(优秀)的前端都应该阅读这些文章](https://juejin.im/post/5d387f696fb9a07eeb13ea60#heading-13)
 
 
 ## Vue 相关
@@ -26,14 +26,19 @@
 10. vue-router
 11. vuex
 
-[Vue源码解析](https://github.com/answershuto/learnVue)
-[Vue.js 技术揭秘](https://github.com/ustbhuangyi/vue-analysis)
-[Vue面试中，经常会被问到的面试题/Vue知识点整理](https://segmentfault.com/a/1190000016344599)
+ [Vue源码解析](https://github.com/answershuto/learnVue)
+ 
+ [Vue.js 技术揭秘](https://github.com/ustbhuangyi/vue-analysis)
+ 
+ [Vue面试中，经常会被问到的面试题/Vue知识点整理](https://segmentfault.com/a/1190000016344599)
 
-## HTML 
-1 html语义化
-2 meta viewport相关
-3 canvas 相关
+
+## HTML
+1. html语义化
+2. meta viewport相关
+3. canvas 相关
+
+
 ## CSS
 
 ## JavaScript 
